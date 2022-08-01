@@ -1,0 +1,5 @@
+#!/bin/bash
+git push -u origin_github main
+git push -u origin_gitlab main
+git push -u origin_bitbucket main
+echo "done!"
